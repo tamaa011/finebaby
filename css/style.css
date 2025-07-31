@@ -76,13 +76,13 @@ body, html {
 /* Responsive font adjustments */
 @media (max-width: 500px) {
   .circle-overlay h2 {
-    font-size: 18px;
+    font-size: 15px;
   }
 
   .circle-overlay p,
   .circle-overlay .code,
   .social a {
-    font-size: 18px;
+    font-size: 15px;
   }
 }
 @keyframes popBounce {
