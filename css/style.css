@@ -42,7 +42,7 @@ body, html {
 
 .circle-overlay p,
 .circle-overlay .code {
-  font-size: clamp(13px, 3.5vw, 16px);
+  font-size: clamp(15px, 3.5vw, 16px);
   margin: 5px 0;
   line-height: 1.4;
 }
