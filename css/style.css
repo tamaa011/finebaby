@@ -100,3 +100,16 @@ body, html {
     max-width: 210px;
   }
 }
+@media (max-width: 280px) {
+  .circle-overlay {
+    width: 56%;
+    max-width: 200px;
+  }
+
+  .circle-overlay h2,
+  .circle-overlay p,
+  .circle-overlay .code,
+  .social a {
+    font-size: 11px;
+  }
+}
