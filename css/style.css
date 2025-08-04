@@ -188,3 +188,13 @@ html, body {
     padding: 2px 5px;
   }
 }
+
+/* Extra padding tweak for smallest devices */
+@media (max-width: 300px) {
+  .circle-overlay {
+    padding: 12px; /* extra space inside circle */
+  }
+  .social {
+    padding-bottom: 8px; /* more bottom space */
+  }
+}
